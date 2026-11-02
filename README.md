@@ -1,6 +1,8 @@
 ## Project Preview
-  ![SELF PLAY](assets/selfplay.gif)
-  ![PLAY AGAINT HUMAN](assets/human.png)
+![Self-play demo](assets/selfplay.gif)
+![Playing against the agent](assets/human.png)
+
+The self-play preview is an infinitely looping GIF. If GitHub shows a Play button instead of starting it automatically, turn on animated images in yousr GitHub **Settings → Accessibility**. The README cannot override that preference.
 ## My Chess Project
 
 I made this project to experiment with Python, chess, and a small neural network. I got some help from GitHub Copilot while building and improving it, especially with working through ideas and code. I still wanted to understand what the parts do, so this README is my explanation of how it works and how to run it.
