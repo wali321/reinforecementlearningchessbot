@@ -1,4 +1,7 @@
-# My Chess Project
+## Project Preview
+  ![SELF PLAY](assets/selfplay.gif)
+  ![PLAY AGAINT HUMAN](assets/human.png)
+## My Chess Project
 
 I made this project to experiment with Python, chess, and a small neural network. I got some help from GitHub Copilot while building and improving it, especially with working through ideas and code. I still wanted to understand what the parts do, so this README is my explanation of how it works and how to run it.
 
@@ -217,5 +220,6 @@ python chess_project.py demo
 python chess_project.py train --pgn games.pgn
 python chess_project.py predict --checkpoint chess_model.pth
 ```
-#   r e i n f o r c e m e n t l e a r n i n g - c h e s s b o t s  
+#   r e i n f o r c e m e n t l e a r n i n g - c h e s s b o t s 
+ 
  
