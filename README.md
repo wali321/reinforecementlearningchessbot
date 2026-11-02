@@ -220,6 +220,4 @@ python chess_project.py demo
 python chess_project.py train --pgn games.pgn
 python chess_project.py predict --checkpoint chess_model.pth
 ```
-#   r e i n f o r c e m e n t l e a r n i n g - c h e s s b o t s 
- 
- 
+#
